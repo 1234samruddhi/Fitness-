@@ -12,3 +12,12 @@ flask-wtf==1.0.1            # For handling web forms (optional if your project i
 python-dotenv==1.0.0        # For managing environment variables (useful for API keys or DB connection strings)
 plotly==5.10.0              # For advanced plotting and visualizations
 pytest==7.2.2               # For unit testing the application
+streamlit==1.18.1           # For creating the web app
+numpy==1.23.4               # For numerical operations
+matplotlib==3.6.2           # For plotting charts
+seaborn==0.11.2             # For better visualizations
+pandas==1.5.3               # For data handling and processing
+scikit-learn==1.1.2         # For machine learning algorithms (Linear Regression, Random Forest, etc.)
+time==3.7.4                 # For time-related operations (though it's part of the standard library)
+warnings==0.0.1             # For filtering warnings (though it's part of the standard library)
+pip==25.0.1
