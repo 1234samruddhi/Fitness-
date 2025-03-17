@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 pip uninstall matplotlib
 pip install matplotlib
-python -m pip install --upgrade pip
 import matplotlib.pyplot as plt
 import seaborn as sn
 import pandas as pd
