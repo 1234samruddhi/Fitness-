@@ -1,6 +1,7 @@
 python -m pip install --upgrade pip
 import streamlit as st
 import numpy as np
+pip install setuptools
 pip uninstall matplotlib
 pip install matplotlib
 import matplotlib.pyplot as plt
