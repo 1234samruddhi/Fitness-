@@ -1,4 +1,5 @@
 python -m pip install --upgrade pip
+pip install --upgrade pip setuptools wheel
 import streamlit as st
 import numpy as np
 pip install setuptools
